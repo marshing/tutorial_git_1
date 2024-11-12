@@ -2,4 +2,4 @@
 3
 user2 modified
 
-No! public commit
+work1 modify
